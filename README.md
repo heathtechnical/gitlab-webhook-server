@@ -1,7 +1,3 @@
-# gitlab-webhook-server
-
-Simple argument driven gitlab webhook server.
-
 # About
 
 This small Python script will listen on a given port (--port PORT) for webhook requests
